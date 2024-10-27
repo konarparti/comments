@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">comments</string>
+    <string name="comment_author">Author: %1$s</string>
+    <string name="comments">Comments: </string>
+    <string name="load_posts">Get posts</string>
+    <string name="back_to_posts">Back to posts</string>
+</resources>
